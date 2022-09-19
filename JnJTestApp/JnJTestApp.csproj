@@ -201,6 +201,7 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Start\AssemblyInfo.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="Admin_Menu.aspx.cs">
       <DependentUpon>Admin_Menu.aspx</DependentUpon>
